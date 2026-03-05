@@ -45,7 +45,7 @@ Currently focused on DevOps practices, automation, containers and Kubernetes in 
 
 **Systems**
 
-- Linux
+- Linux BareMetal (ubuntu,rocky Linux and arch linux) 
 - openstack
 - Proxmox
 - Homelab Infrastructure
