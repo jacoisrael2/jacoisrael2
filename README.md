@@ -22,7 +22,7 @@ Currently focused on DevOps practices, automation, containers and Kubernetes in 
 
 **Networking**
 
-- Cisco Nexus
+- Cisco Nexus and Arista EOS
 - Cisco ACI
 - VXLAN / EVPN
 - BGP / OSPF
