@@ -57,8 +57,8 @@ Currently focused on DevOps practices, automation, containers and Kubernetes in 
 My personal DevOps lab environment includes:
 
 - Lenovo Mini PC i5 – 32GB RAM
-- HP EliteDesk Mini – 8GB RAM
-- Synology NAS
+- HP EliteDesk Mini – 16GB RAM
+- Synology NAS - 2TB
 - Openstack Virtualization
 
 I use this lab to experiment with:
