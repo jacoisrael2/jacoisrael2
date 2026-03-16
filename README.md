@@ -20,7 +20,7 @@ Currently focused on DevOps practices, automation, containers and Kubernetes in 
 
 ## 🌎 Community
 
-I am part of one of the largest DevOps communities in the world:
+I'm part of one of the largest DevOps communities in the world:
 
 ⚡ **KubeCraft Community**
 
