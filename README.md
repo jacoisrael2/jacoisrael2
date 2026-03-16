@@ -99,9 +99,9 @@ I use this lab to experiment with:
 Some projects I’m building:
 
 - DevOps Homelab infrastructure
-- Network automation with Python
-- Kubernetes lab cluster
-- Infrastructure monitoring stack
+- Network automation with Python + SDN ACI adn Arista EOS
+- CloudNative Postgress to run all personal applications 
+- Infrastructure monitoring stack ( Grafana & Prometheus)
 
 ---
 
