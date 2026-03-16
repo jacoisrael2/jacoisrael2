@@ -68,10 +68,11 @@ A global community focused on DevOps, Kubernetes, Cloud and platform engineering
 
 My personal DevOps lab environment includes:
 
+- Laptop ThinkPad T470
 - Lenovo Mini PC i5 – 32GB RAM
 - HP EliteDesk Mini – 16GB RAM
-- Synology NAS - 2TB
-- Openstack Virtualization
+- Synology NAS D212J - 2TB
+
 
 I use this lab to experiment with:
 
