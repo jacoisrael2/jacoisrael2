@@ -18,6 +18,18 @@ Currently focused on DevOps practices, automation, containers and Kubernetes in 
 
 ---
 
+## 🌎 Community
+
+I am part of one of the largest DevOps communities in the world:
+
+⚡ **KubeCraft Community**
+
+A global community focused on DevOps, Kubernetes, Cloud and platform engineering.
+
+🔗 https://www.skool.com/kubecraft/about?ref=7c779fe759634555bd0adafe6b107f26
+
+---
+
 ## 🧰 Tech Stack
 
 **Networking**
